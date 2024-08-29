@@ -1,1 +1,2 @@
-created my first repo file
+created my first repo file...
+Also edited this file by pull command.
